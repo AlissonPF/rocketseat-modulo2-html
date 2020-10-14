@@ -1,1 +1,1 @@
-# rocketseat-modulo2-html
+# Website developed in HTML, CSS and JAVA.
